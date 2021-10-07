@@ -1,0 +1,204 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="es">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Landing TCL PRO</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0" />
+
+    <meta name="robots" content="noindex">
+
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="" />
+
+    <link rel="shortcut icon" href="">
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css?version=<?php echo rand(11111, 99999); ?>">
+
+</head>
+
+
+<body>
+
+
+    <!--
+
+<div class="aux hide-lg hide-md hide-sm show-xs">xs</div>
+<div class="aux hide-lg hide-md show-sm hide-xs">sm</div>
+<div class="aux hide-lg show-md hide-sm hide-xs">md</div>
+<div class="aux show-lg hide-md hide-sm hide-xs">lg</div>
+-->
+
+    <div class="container">
+        <div class="row ttl-landing-bg bg-cover">
+            <div class="col-12 col-md-6">
+                <div class="ttl-phone text-center text-md-right py-5">
+                    <img src="img/phone.png" alt="TCL">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 d-md-flex justify-content-md-end align-items-md-start flex-direction mb-4">
+
+                <div class="ttl-logo text-center">
+                    <img src="img/logo-tclpro.png" alt="TCLPRO">
+                </div>
+                <div class="py-4 text-center">
+                    <img src="img/especificaciones.png" alt="especificaciones">
+                </div>
+                <div class="text-center pb-md-5 mb-md-5">
+                    <img src="img/display-greatnes.png" alt="Display">
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="ttl-logo text-center pt-4 ">
+                    <img src="img/nxt-vision.png" alt="nxtvision">
+                    <h2 class="pt-4 text-huge">Experimenta el incomparable poder visual de TCL 10 Pro</h2>
+                    <p class="pt-4 text-medium ">Potente tecnología visual NXTVISION, una pantalla AMOLED curva NXTVISION y un sistema de cuatro cámaras NXTVISION 64MP AI*1 se unen en un dispositivo cohesivo para que puedas mostrar tu grandeza.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row ttl-bg-1 py-4">
+            <img src="img/bg-1.jpg" alt="">
+        </div>
+        <div class="row justify-content-center text-center  px-4 py-md-4">
+            <div>
+                <h2 class="py-2 text-huge">CAPTURA VERSATIL</h2>
+                <p class="text-medium">Disfruta de una potente versatilidad con un sistema de cuatro cámaras NXTVISION 64MP AI
+                    capaz de capturar todos tus momentos de grandeza. Graba con detalle incluso de noche con una cámara de baja
+                    luminosidad de 2,9 µm. Disfruta de primeros planos con un nivel de detalle increíble gracias a la cámara Macro. </p>
+                <p class="text-medium"> Captura escenas épicas de gran tamaño con una cámara súper gran angular.
+                    Tus fotos están claras de día o de noche, incluso con un sujeto en movimiento utilizando
+                    el enfoque automático híbrido.</p>
+                <p class="text-medium">
+                    960 fotogramas por segundo de cámara lenta. Hace cada segundo 32 veces más lento con excelente claridad y color de día o de noche.</p>
+            </div>
+
+        </div>
+
+        <div class="row ttl-bg-1 py-4">
+            <img src="img/bg-2.jpg" alt="">
+        </div>
+        <div class="row justify-content-center text-center  px-4 py-md-4">
+            <a data-micromodal-trigger="modal-1">
+                <div class="ttl-video">
+                    <img src="img/video-48mp.png" alt="">
+                </div>
+            </a>
+            <div>
+                <div>
+                    <h2 class="py-2 text-huge">SEGURIDAD TOTAL</h2>
+                    <p class="text-medium">
+                        Todo lo que necesitas está al alcance de tu mano. Usa el inicio rápido del sensor de huellas digitales para conectarte con el mundo.
+                        Abre aún más aplicaciones y funciones con un solo toque de la tecla inteligente personalizada.</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="row ttl-bg-1 py-4">
+            <img src="img/bg-3.jpg" alt="">
+        </div>
+
+        <div class="row justify-content-center text-center  px-4 py-md-4">
+            <div>
+                <h2 class="py-2 text-huge">Potencial sin limites</h2>
+                <p class="text-medium">
+                    Haz tu vida más fácil con el potente procesamiento y funcionalidad del TCL 10 Pro que te ayuda en todo momento.
+                    Un procesador Qualcomm® Snapdragon™ 675 AI, una memoria de 6 + 128 GB con almacenamiento Universal Flash Storage (UFS) 2.1
+                    te proporcionan una potente experiencia ininterrumpida. </p>
+            </div>
+
+
+
+
+        </div>
+
+        <div class="row ttl-bg-1 py-4">
+            <img src="img/bg-4.jpg" alt="">
+        </div>
+        <div class="row justify-content-center text-center  px-4 py-md-4">
+            <div>
+                <h2 class="py-2 text-huge">Potencial Integral</h2>
+                <p class="text-medium">
+                    Nunca dejes de moverte con la batería de 4500mAh. </p>
+                <p class="text-medium"> Comparte tu potencia con auriculares, wearables y teléfonos de tus amigos sin reducir </p>
+                <p class="text-medium"> la velocidad con la carga inversa.
+                    Carga rápida hasta el 50% de la batería en 35 minutos para que siempre estas activo </p>
+            </div>
+        </div>
+
+        <div class="row ttl-bg-1 py-4">
+            <img src="img/bg-5.jpg" alt="">
+        </div>
+        <div class="row justify-content-center text-center  px-4 py-md-4">
+            <div>
+                <h2 class="py-2 text-huge">Audio maximizado</h2>
+                <p class="text-medium">
+                    Supera los límites del audio con Super Bluetooth. Aumenta tu audio para fiestas y reuniones
+                    y comparte una experiencia de audio inmersiva en cualquier lugar conectando hasta
+                    cuatro auriculares. </p>
+            </div>
+        </div>
+
+        <div class="row ttl-bg-1 py-4">
+            <img src="img/bg-6.jpg" alt="">
+        </div>
+        <div class="row justify-content-center text-center  px-4 py-md-4">
+            <div>
+                <h2 class="py-2 text-huge">Diseño único</h2>
+                <p class="text-medium">
+                    Mantente equilibrado con un diseño que combina la elegancia simétrica moderna con la belleza
+                    de la naturaleza.
+                </p>
+            </div>
+        </div>
+
+        <div class="row ttl-bg-1 py-4 px-4 px-md-5">
+            <img src="img/bg-7.jpg" alt="">
+        </div>
+
+        <div class="row ttl-bg-1 py-5 px-5 ttl-logo justify-content-center">
+            <img src="img/logo-tclpro.png" alt="">
+        </div>
+
+
+        <div class="modal micromodal-slide" id="modal-1" aria-hidden="true">
+            <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+                <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title">
+                    <div class="modal-content-content">
+                        <div class="modal__content">
+                            <header class="modal__header">
+                                <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+                            </header>
+                            <div class="video_iframe">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/cppdiyFaQDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+    <script src="js/main.js?version=<?php echo rand(11111, 99999); ?>"></script>
+
+
+
+</body>
+
+</html>
