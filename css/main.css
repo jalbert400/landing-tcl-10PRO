@@ -62,12 +62,50 @@ Fonts
     z-index: 10;
 }
 
+@font-face {
+    font-family: 'AvenirMedium';
+    src: url('../fonts/AvenirMedium.eot');
+    src: url('../fonts/AvenirMedium.eot') format('embedded-opentype'),
+         url('../fonts/AvenirMedium.woff2') format('woff2'),
+         url('../fonts/AvenirMedium.woff') format('woff'),
+         url('../fonts/AvenirMedium.ttf') format('truetype'),
+         url('../fonts/AvenirMedium.svg#AvenirMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'AvenirBlack';
+    src: url('../fonts/AvenirBlack.eot');
+    src: url('../fonts/AvenirBlack.eot') format('embedded-opentype'),
+         url('../fonts/AvenirBlack.woff2') format('woff2'),
+         url('../fonts/AvenirBlack.woff') format('woff'),
+         url('../fonts/AvenirBlack.ttf') format('truetype'),
+         url('../fonts/AvenirBlack.svg#AvenirBlack') format('svg');
+}
+
+h2{
+    font-family: 'AvenirBlack';
+    color: #000000;
+}
+
+p{
+    color: #58595b;
+}
+
+
+.ttl-font-AvenirBlack{
+    font-family: 'AvenirBlack';
+}
+
+.ttl-fontAvenirMedium{
+    font-family: 'AvenirMedium';
+}
+
 /* ==========================================================================
 Author's custom styles
 ========================================================================== */
 body {
     color: #171a2a;
-    font-family: "Poppins", sans-serif;
+    font-family: 'AvenirMedium', sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 14px;
     font-weight: 400;
@@ -131,16 +169,16 @@ html {
 
 /* text sizes starts */
 .text-huge {
-    font-size: 23px !important;
+    font-size: 24px !important;
 }
 .text-big {
-    font-size: 18px !important;
+    font-size: 20px !important;
 }
 .text-medium {
-    font-size: 16px !important;
+    font-size: 18px !important;
 }
 .text-normal {
-    font-size: 14px !important;
+    font-size: 16px !important;
 }
 
 .line-height-13 {
