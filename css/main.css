@@ -430,6 +430,10 @@ Demo Animation Style
   will-change: transform;
 }
 
+.video_iframe iframe{
+    width: 100%;
+}
+
 /* ==========================================================================
 Mobile first
 ========================================================================== */
@@ -461,6 +465,9 @@ Mobile first
   .modal__container {
     width: 100%;
   }
+  .video_iframe iframe {
+    width: 560px;
+}
 }
 @media screen and (min-width: 1200px) {
   .ttl-phone img {
