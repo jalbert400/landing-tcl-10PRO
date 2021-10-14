@@ -1,41 +1,4 @@
 /*-- General Styles ---*/
-:root {
-  --red: #ab1a2d;
-  --lightred: #c6293e;
-  --darkred: #760f1c;
-  --sky: #f3f4ff;
-  --cherry: #a91d30;
-  --lead: #f4f4f4;
-  --orange: #ff8900;
-}
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  margin: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-p {
-  margin: 0;
-  padding: 0;
-}
-
-p {
-  font-size: inherit;
-}
-
-a {
-  color: inherit;
-}
 
 a:focus,
 a:hover {
@@ -83,7 +46,7 @@ Fonts
 }
 
 h2 {
-  font-family: "AvenirBlack";
+  
   color: #000000;
 }
 
@@ -211,7 +174,7 @@ html {
 
 .ttl-landing-bg:before {
   position: absolute;
-  background-image: url(../img/bg-tcl-xs.png);
+  background-image: url(./img/bg-tcl-xs.png);
   top: 0;
   width: 100%;
   height: 151px;
@@ -230,8 +193,12 @@ html {
 }
 
 .ttl-logo img {
-  width: 320px;
+  width: 270px;
   position: relative;
+}
+
+.ttl-video{
+  cursor: pointer;
 }
 
 .ttl-phone img {
@@ -434,6 +401,10 @@ Demo Animation Style
     width: 100%;
 }
 
+.text-center{
+  text-align: center;
+}
+
 /* ==========================================================================
 Mobile first
 ========================================================================== */
@@ -444,7 +415,7 @@ Mobile first
 }
 @media screen and (min-width: 768px) {
   .ttl-landing-bg:before {
-    background-image: url(../img/bg-tcl.png);
+    background-image: url(./img/bg-tcl.png);
     height: 251px;
   }
 }
@@ -454,7 +425,7 @@ Mobile first
   }
 
   .ttl-landing-bg:before {
-    background-image: url(../img/bg-tcl.png);
+    background-image: url(./img/bg-tcl.png);
     height: 331px;
 }
 
@@ -466,7 +437,8 @@ Mobile first
     width: 100%;
   }
   .video_iframe iframe {
-    width: 560px;
+    width: 760px;
+    height: 460px;
 }
 }
 @media screen and (min-width: 1200px) {
@@ -475,7 +447,7 @@ Mobile first
   }
 
   .ttl-landing-bg:before {
-    background-image: url(../img/bg-tcl.png);
+    background-image: url(./img/bg-tcl.png);
     width: 100%;
     height: 391px;
   }
